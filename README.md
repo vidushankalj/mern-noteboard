@@ -23,9 +23,9 @@ MERN Noteboard is a full-stack web application built using the MERN stack (Mongo
 - **Bootstrap/Tailwind CSS**: For styling and responsive design.
 
 ## Screenshots
-![no_notes]([http://url/to/img.png](https://github.com/vidushankalj/mern-noteboard/blob/main/screenshots/1.png))
-![create_note]([http://url/to/img.png](https://github.com/vidushankalj/mern-noteboard/blob/main/screenshots/2.png))
-![notes]([http://url/to/img.png](https://github.com/vidushankalj/mern-noteboard/blob/main/screenshots/3.png))
+![alt text](https://github.com/vidushankalj/mern-noteboard/blob/main/screenshots/1.png)
+![alt text](https://github.com/vidushankalj/mern-noteboard/blob/main/screenshots/2.png)
+![alt text](https://github.com/vidushankalj/mern-noteboard/blob/main/screenshots/3.png)
 
 ## Installation
 
